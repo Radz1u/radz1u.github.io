@@ -6,7 +6,7 @@
 # --- Required options --- #
 
 # Name of website
-title: Just another programmer's blog
+title: just another programmer's blog
 
 # Your name to show in the footer
 author: Radosław Czebreszuk
@@ -14,6 +14,7 @@ author: Radosław Czebreszuk
 # --- List of links in the navigation bar --- #
 
 navbar-links:
+  Home: "index"
   About Me: "aboutme"
 
 # --- Logo --- #
@@ -59,7 +60,7 @@ social-network-links:
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
-rss-description: Just another programmer's blog
+rss-description: just another programmer's blog
 
 # --- General options --- #
 
