@@ -15,7 +15,7 @@ author: Radosław Czebreszuk
 
 navbar-links:
   Home: "index"
-  About Me: "aboutme"
+#  About Me: "aboutme"
 
 # --- Logo --- #
 
@@ -217,6 +217,7 @@ exclude:
   - README.md
   - screenshot.png
   - docs/
+  - vendor
 
 plugins:
   - jekyll-paginate
